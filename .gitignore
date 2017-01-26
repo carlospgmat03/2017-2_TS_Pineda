@@ -1,0 +1,31 @@
+
+# temp files
+*.fdb_latexmk
+*.fls
+*.out
+*.pdf
+*.aux
+*.log
+*.bib
+*.swp
+*.bbl
+*.blg
+*.tex.bak
+
+# julia files
+.ipynb_checkpoints
+*.ipynb
+
+# but not the images
+!MSEvan.pdf
+!RM1.pdf
+!RM2.pdf
+!RM3.pdf
+!RM4.pdf
+!RM5.pdf
+!RM6.pdf
+
+# but not the bibliography
+!papervantrees.bib
+
+

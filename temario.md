@@ -50,7 +50,7 @@ Temario (16 semanas):
    * Espacios tensoriales 
    * Estados separables y aleatorios
    * Teleportación
-   * Librerias
+   * Librerías
 6. Matriz de densidad
    * Conceptos
    * Traza parcial
@@ -89,9 +89,9 @@ Algunas alternativas para proyectos finales
 * _Una base simetrica para la cadena de Ising_- Estudiar la cadena de Ising y
   construir una base que sea consistente con dicha
   simetría. Se deberá poder diagonalizar el sistema por bloques y que den 
-* Implementar un toolkit para la representacion de canales cuanticos,
+* Implementar un toolkit para la representación de canales cuánticos,
   isomorfismo de Jamiolkowski, etc.
-* Jugar con algún paquete de Julia e implementar un ejemp tipo Jaynes–Cummings
+* Jugar con algún paquete de Julia e implementar un ejemplo tipo Jaynes–Cummings
 * Tomografía de varios qubits, costo computacional y compressed sensing
 * _Benchmarking de nuestas rutinas_ La idea es hacer un benchmarking en serio,
   y comparar el desempeño de lo desarrollado acá con rutinas que tenemos en

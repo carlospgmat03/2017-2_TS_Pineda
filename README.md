@@ -52,7 +52,7 @@ El número es el número de la tarea y el nombre su nombre, apodo, o alguna form
 de identificar el alumno. Por ejemplo, si voy a subir la segunda tarea, subiria
 un archivo 
 ~~~~
-T2carlos.ipynb"
+T2carlos.ipynb
 ~~~~
 
 

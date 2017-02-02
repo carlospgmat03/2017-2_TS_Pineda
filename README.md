@@ -17,7 +17,7 @@ La primera parte del curso trabajaremos de manera interactiva, cada quien con su
 
 
 
-**Lugar y horario**:
+#### Lugar y horario
 Salón 111 del Instituto de Física, horario por definir.
 [//]: # (Laboratorio de Cómputo III, Depto Física (2o piso), Fac. Ciencias, UNAM,)
 [//]: # (los lunes y martes 2:00-4:00 PM)
@@ -33,7 +33,7 @@ Salón 111 del Instituto de Física, horario por definir.
 5. Desarrollo del proyecto final semestral.
 
 
-#### Calificaciones:
+#### Calificaciones
 - **Tareas**: 30%.
 - **Proyecto final**: 70%
 

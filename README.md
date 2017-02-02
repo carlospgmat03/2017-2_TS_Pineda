@@ -32,6 +32,7 @@ Salón 111 del Instituto de Física, horario por definir.
 4. Herramientas más avanzadas de mecánica cuántica.
 5. Desarrollo del proyecto final semestral.
 
+Un temario más detallado lo pueden encontrar en esta [liga](temario.md).
 
 #### Calificaciones
 - **Tareas**: 30%.

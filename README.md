@@ -55,6 +55,7 @@ un archivo
 T2carlos.ipynb"
 ~~~~
 
+
 El proyecto final consiste en estudiar un problema usando las 
 herramientas desarrolladas en el curso y presentarlo en forma oral. Los
 problemas serán propuestos a su debido tiempo. Pueden encontrar algunas

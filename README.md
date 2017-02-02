@@ -1,11 +1,11 @@
 # 2017-2 Temas Selectos de Física Matemática y Teórica II (8307)
-# Información cuantica y sistemas de espín
+# Información cuántica y sistemas de espín
 
 ### Carlos Pineda, Instituto de Física, UNAM
 ### David Davalos, Instituto de Física, UNAM
-El formato y métodos de este curso están inspirados en [este curso](https://github.com/lbenet/2016-2_TSFisicaComputacional). Sin embargo, el contenido del curso es bastante diferente.
+El formato y métodos de este curso están inspirados en [este curso](https://github.com/lbenet/2016-2_TSFisicaComputacional). Sin embargo, el contenido del curso es bastante diferente. Ese curso evolucionó a una primera versión, que se puede encontrar [acá](https://github.com/carlospgmat03/2017-1_TS_Pineda). La liga al curso, en la facultad, se puede encontrar [acá](http://www.fciencias.unam.mx/docencia/horarios/detalles/280355).
 
-La primera parte del curso trabajaremos de manera interactiva, cada quien con su computadora, para ir aprendiendo a manejar las herramientas. A medida que el maestro o el ayudante van mostrando el progreso en el proyector, los estudiantes puede ir reproduciendo lo que ven en sus computadoras. Frecuentemente se les pedirá a los estudiantes que hagan ejercicios durante el transcurso de la clase. 
+La primera parte del curso trabajaremos de manera interactiva, cada quien con su computadora (o la computadora de la sala de computo), para ir aprendiendo a manejar las herramientas. A medida que el maestro o el ayudante van mostrando el progreso en el proyector, los estudiantes puede ir reproduciendo lo que ven en sus computadoras. Frecuentemente se les pedirá a los estudiantes que hagan ejercicios durante el transcurso de la clase. 
 
 ---
 

@@ -14,7 +14,7 @@
 
 # julia files
 .ipynb_checkpoints
-*.ipynb
+# *.ipynb
 
 # but not the images
 !MSEvan.pdf

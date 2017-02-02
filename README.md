@@ -44,10 +44,16 @@ tareas se enviarán como [pull
 request](https://help.github.com/articles/using-pull-requests/) por GitHub. A
 su debido tiempo, deben pasar los tests de CI Travis. El tiempo máximo de
 entrega de cada tarea es de 2 semanas. Las tareas deben ponerse en el
-directorio "tareas" y deben tener el formato "T(numero)(nombre).extension".
+directorio "tareas" y deben tener el formato 
+~~~~
+T(numero)(nombre).extension
+~~~~
 El número es el número de la tarea y el nombre su nombre, apodo, o alguna forma
 de identificar el alumno. Por ejemplo, si voy a subir la segunda tarea, subiria
-un archivo "T2carlos.ipynb".
+un archivo 
+~~~~
+T2carlos.ipynb"
+~~~~
 
 El proyecto final consiste en estudiar un problema usando las 
 herramientas desarrolladas en el curso y presentarlo en forma oral. Los

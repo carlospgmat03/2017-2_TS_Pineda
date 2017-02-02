@@ -18,8 +18,7 @@ La primera parte del curso trabajaremos de manera interactiva, cada quien con su
 
 
 **Lugar y horario**:
-Por definir. 
-[//]: # (Salon 111 del Instituto de Física, martes de 10 a 13. )
+Salón 111 del Instituto de Física, horario por definir.
 [//]: # (Laboratorio de Cómputo III, Depto Física (2o piso), Fac. Ciencias, UNAM,)
 [//]: # (los lunes y martes 2:00-4:00 PM)
 

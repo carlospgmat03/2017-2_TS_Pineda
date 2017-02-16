@@ -74,6 +74,12 @@ en combinación con [IJulia](https://github.com/JuliaLang/IJulia.jl) en clase.
 
 
 #### Ligas de interés
+- **Tutoriales de git**
+	- [Become a Git guru](https://www.atlassian.com/git/tutorials/) [muchos tutoriales de varios niveles, incluyendo basico, medio y avanzado]
+	- [Hello World en GitHub](https://guides.github.com/activities/hello-world/) [tutorial basico para hacer pull requests en github]
+	- [Learn Git branching](http://pcottle.github.io/learnGitBranching) [tutorial grafico para entender un poco la filosofia de git, y algunos comandos medio avanzados]
+	- [Sincronizar un fork](https://help.github.com/articles/syncing-a-fork/) [En algun momento será necesario]
+	- [Think lie a git](http://think-like-a-git.net/) [Si ya sabes algo de git, ayuda a _entender_ git]
 - **Julia**
 	- [http://julialang.org/](julialang.org)
 	- [Tutorial de David Sanders (scipy2014)](https://github.com/dpsanders/scipy_2014_julia/blob/master/Introduction%20to%20Julia.ipynb)
@@ -81,12 +87,6 @@ en combinación con [IJulia](https://github.com/JuliaLang/IJulia.jl) en clase.
 	- [JuliaBox](juliabox.org)
 	- Libros para aprender Julia: 
 		- [Julia High Performance de Avik Sengupta](https://www.packtpub.com/application-development/julia-high-performance)
-- **Tutoriales de git**
-	- [Become a Git guru](https://www.atlassian.com/git/tutorials/) [muchos tutoriales de varios niveles, incluyendo basico, medio y avanzado]
-	- [Hello World en GitHub](https://guides.github.com/activities/hello-world/) [tutorial basico para hacer pull requests en github]
-	- [Learn Git branching](http://pcottle.github.io/learnGitBranching) [tutorial grafico para entender un poco la filosofia de git, y algunos comandos medio avanzados]
-	- [Sincronizar un fork](https://help.github.com/articles/syncing-a-fork/) [En algun momento será necesario]
-	- [Think lie a git](http://think-like-a-git.net/) [Si ya sabes algo de git, ayuda a _entender_ git]
 - **Guía de sintaxis en markdown**
 	- [Markdown syntax guide](https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide)
 	- [Markdown quick reference](https://en.support.wordpress.com/markdown-quick-reference/)

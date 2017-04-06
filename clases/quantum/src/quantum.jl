@@ -2,7 +2,7 @@ __precompile__()
 
 module quantum
 
-using LsqFit: curve_fit
+# using LsqFit: curve_fit
 
 export random_state, projector, sigma_x, sigma_y, sigma_z, sigmas, apply_unitary!, apply_ising!, testbit, staircase, unfolding, apply_kick!, base_state, P_Unitary, P_Orthogonal
 
@@ -93,14 +93,14 @@ function staircase(list,x)
     return y
 end
 
-function unfolding(list)
-    x=linspace(minimum(list),maximum(list),1000);
-    y=staircase(list,x);
-    model(x,p)=p[1]+p[2]*x+p[3]*x.^2+p[4]*x.^3+p[5]*x.^4+p[6]*x.^5+p[7]*x.^6+p[8]*x.^7+p[9]*x.^8+p[10]*x.^9;
-    fit = curve_fit(model, x, y,ones(10));
-    p=fit.param;
-    return model(list,p)
-end
+#function unfolding(list)
+#    x=linspace(minimum(list),maximum(list),1000);
+#    y=staircase(list,x);
+#    model(x,p)=p[1]+p[2]*x+p[3]*x.^2+p[4]*x.^3+p[5]*x.^4+p[6]*x.^5+p[7]*x.^6+p[8]*x.^7+p[9]*x.^8+p[10]*x.^9;
+#    fit = curve_fit(model, x, y,ones(10));
+#    p=fit.param;
+#    return model(list,p)
+#end
 
 """
 Construye los elementos de la base
